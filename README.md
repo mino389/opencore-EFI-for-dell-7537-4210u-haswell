@@ -1,0 +1,1 @@
+# opencore-0.7.4-big-sur-for-dell-7537-4210u-haswell
