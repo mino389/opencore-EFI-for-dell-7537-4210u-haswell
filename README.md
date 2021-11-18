@@ -4,15 +4,15 @@
 
 
 # THÔNG SỐ CẤU HÌNH:
-   CPU: Intel 4210u Haswell
-   GPU: Intel 4400 + GT750m
-   AUDIO: ALC283 (layout_id=3)
-   ENET: RTL8111
+*   CPU: Intel 4210u Haswell
+*   GPU: Intel 4400 + GT750m
+*   AUDIO: ALC283 (layout_id=3)
+*   ENET: RTL8111
 # LƯU Ý:
-   Thẻ wifi có thể phải cài kext theo mô hình của bạn 
-   Không khả dụng với monterey phiên bản
+*   Thẻ wifi có thể phải cài kext theo mô hình của bạn 
+*   Không khả dụng với monterey phiên bản
 
 # VẤN ĐỀ TỒN TẠI:
-   Hệ thống gần như hoạt động tốt.
-   Chỉnh độ sáng bàn phím không khả dụng
-   1 số cử chỉ bàn di chuột không hỗ trợ
+*   Hệ thống gần như hoạt động tốt.
+*   Chỉnh độ sáng bàn phím không khả dụng
+*   1 số cử chỉ bàn di chuột không hỗ trợ
