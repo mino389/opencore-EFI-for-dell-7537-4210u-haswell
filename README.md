@@ -18,6 +18,7 @@
 # VẤN ĐỀ TỒN TẠI:
 *   Hệ thống gần như hoạt động tốt.
 *   Chỉnh độ sáng bàn phím không khả dụng trong cài đặt
+*   airdrop gửi file đi ( cần phải đánh thức airdrop của 2 thiết bị nhận có hỗ trợ)
 *   1 số cử chỉ bàn di chuột không hỗ trợ
 # HỖ TRỢ:
 * MACOS Monterey 12
