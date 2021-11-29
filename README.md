@@ -21,7 +21,7 @@
 *   1 số cử chỉ bàn di chuột không hỗ trợ
 # HỖ TRỢ:
 * MACOS Monterey 12
-* Haswell(4th gen Intel) Mobile
+* Haswell(4th gen Intel) Mobile:
 Core i3-4005U
 Core i3-4010U
 Core i3-4030U
