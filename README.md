@@ -5,14 +5,21 @@
 
 # THÔNG SỐ CẤU HÌNH:
 *   CPU: Intel 4210u Haswell
-*   GPU: Intel 4400 + GT750m
-*   AUDIO: ALC283 (layout_id=3)
+*   GPU: Intel 4400 (GT750m đã tắt)
+*   AUDIO: ALC283 (layout_id=88)
 *   ENET: RTL8111
-# LƯU Ý:
-*   Thẻ wifi có thể phải cài kext theo mô hình của bạn 
-*   Không khả dụng với monterey phiên bản
-
+*   RAM: 2x8GB DDR3
+*   SSD: 1TB 2.5" SATA
+*   WIFI: BCM94360HMB
+*   USB: 3.0x4
+*   Card Reader: RTL8411B
+#  HOẠT ĐỘNG:
+*   Wifi, bluetooth, usb x4 port, igpu 4400, bàn phím, bàn di chuột, HDMI, Âm thanh - 3.5 jack - hdmi audio, ngủ -thức, quản lý điện năng cpu - quạt - nhiệt độ, card reader, airdrop*, camera, iMessage, facetime, icloud.
 # VẤN ĐỀ TỒN TẠI:
 *   Hệ thống gần như hoạt động tốt.
-*   Chỉnh độ sáng bàn phím không khả dụng
+*   Chỉnh độ sáng bàn phím không khả dụng trong cài đặt
 *   1 số cử chỉ bàn di chuột không hỗ trợ
+# HỖ TRỢ:
+* MACOS Monterey 12
+# LƯU Ý:
+* GenSMBIOS theo mô hình của bạn *ROM-En0*, mặc định macbookpro 11.4
