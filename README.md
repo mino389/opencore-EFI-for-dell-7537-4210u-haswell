@@ -21,5 +21,15 @@
 *   1 số cử chỉ bàn di chuột không hỗ trợ
 # HỖ TRỢ:
 * MACOS Monterey 12
+* Haswell(4th gen Intel) Mobile
+Core i3-4005U
+Core i3-4010U
+Core i3-4030U
+Core i5-4200U
+Core i5-4210U
+Core i5-4300U
+Core i5-4310U
+Core i7-4500U
+Core i7-4510U
 # LƯU Ý:
 * GenSMBIOS theo mô hình của bạn *ROM-En0*, mặc định macbookpro 11.4
