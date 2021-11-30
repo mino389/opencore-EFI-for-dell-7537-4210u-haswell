@@ -1,4 +1,4 @@
-# opencore-big-sur-for-dell-7537-4210u-haswell
+# opencore-EFI-for-dell-7537-4210u-haswell
 
 Đây là bản dựng OpenCore cho sản phẩm DELL Inspiron 7537 với thông số cấu hình chi tiết bên dưới:
 
