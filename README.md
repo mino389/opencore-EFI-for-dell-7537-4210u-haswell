@@ -7,7 +7,7 @@
 *   CPU: Intel 4210u Haswell
 *   GPU: Intel 4400 (GT750m đã tắt)
 *   AUDIO: ALC283 (layout_id=88)
-*   ENET: RTL8111
+*   NIC: RTL8111
 *   RAM: 2x8GB DDR3
 *   SSD: 1TB 2.5" SATA
 *   WIFI: BCM94360HMB
