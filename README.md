@@ -2,8 +2,8 @@
 
 Đây là bản dựng OpenCore cho sản phẩm DELL Inspiron 7537 với thông số cấu hình chi tiết bên dưới:
 
-thông số: https://downloads.dell.com/manuals/all-products/esuprt_laptop/esuprt_inspiron_laptop/inspiron-15-7537_reference%20guide_en-us.pdf
-thông tin thêm: https://www.notebookcheck.net/Review-Dell-Inspiron-15-7537-Notebook.104976.0.html
+* Chi tiết: https://downloads.dell.com/manuals/all-products/esuprt_laptop/esuprt_inspiron_laptop/inspiron-15-7537_reference%20guide_en-us.pdf
+* Thông tin thêm: https://www.notebookcheck.net/Review-Dell-Inspiron-15-7537-Notebook.104976.0.html
 
 # THÔNG SỐ CẤU HÌNH:
 *   CPU: Intel 4210u Haswell
