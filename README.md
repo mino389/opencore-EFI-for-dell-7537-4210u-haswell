@@ -36,3 +36,5 @@ Core i7-4500U
 Core i7-4510U
 # LƯU Ý:
 * GenSMBIOS theo mô hình của bạn *ROM-En0*, mặc định macbookpro 11.4
+* Khuyến nghị nên thay thẻ WIFI BCM94360HMB - không có Wifi với thẻ Intel xuất xưởng
+* Thêm Kext WIFI trên Monterey không được hỗ trợ có thể gây ra lỗi Panic-Kernel
