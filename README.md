@@ -5,6 +5,9 @@
 * Chi tiết: https://downloads.dell.com/manuals/all-products/esuprt_laptop/esuprt_inspiron_laptop/inspiron-15-7537_reference%20guide_en-us.pdf
 * Thông tin thêm: https://www.notebookcheck.net/Review-Dell-Inspiron-15-7537-Notebook.104976.0.html
 
+# Hình ảnh
+![Ảnh chụp Màn hình 2022-02-13 lúc 17 55 33](https://user-images.githubusercontent.com/55343489/153750013-69cb0e9d-6355-450b-90b6-14bb804e2ef2.png)
+
 # THÔNG SỐ CẤU HÌNH:
 *   CPU: Intel 4210u Haswell
 *   GPU: Intel 4400 (GT750m đã tắt)
