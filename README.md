@@ -18,6 +18,25 @@
 *   WIFI: BCM94360HMB
 *   USB: 3.0x4
 *   Card Reader: RTL8411B
+#   BIOS SETUP
+*   ENABLE
+- VT-x
+- Hyper-Threading
+- Execute Disable Bit
+- EHCI/XHCI Hand-off
+- OS type: UEFI Mode
+- DVMT Pre-Allocated(iGPU Memory): 64MB
+- SATA Mode: AHCI
+*   DISABLE
+- Fast Boot
+- Secure Boot
+- Serial/COM Port
+- Parallel Port
+- VT-d (can be enabled if you set DisableIoMapper to YES)
+- CSM
+- Thunderbolt(For initial install, as Thunderbolt can cause issues if not setup correctly)
+- Intel SGX
+- Intel Platform Trust
 #  HOẠT ĐỘNG:
 *   Wifi, bluetooth, usb x4 port, igpu 4400, bàn phím, bàn di chuột, HDMI, Âm thanh - 3.5 jack - hdmi audio, ngủ -thức, quản lý điện năng cpu - quạt - nhiệt độ, card reader, airdrop*, camera, iMessage, facetime, icloud.
 # VẤN ĐỀ TỒN TẠI:
