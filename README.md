@@ -19,7 +19,7 @@
 *   USB: 3.0x4
 *   Card Reader: RTL8411B
 #   BIOS SETUP
-*   _ENABLE_
+*   **_ENABLE_**
 - VT-x
 - Hyper-Threading
 - Execute Disable Bit
@@ -27,7 +27,7 @@
 - OS type: UEFI Mode
 - DVMT Pre-Allocated(iGPU Memory): 64MB
 - SATA Mode: AHCI
-*   _DISABLE_
+*   **_DISABLE_**
 - Fast Boot
 - Secure Boot
 - Serial/COM Port
