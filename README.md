@@ -7,6 +7,9 @@
 
 # Hình ảnh
 ![Ảnh chụp Màn hình 2022-02-13 lúc 17 55 33](https://user-images.githubusercontent.com/55343489/153750013-69cb0e9d-6355-450b-90b6-14bb804e2ef2.png)
+# THẺ WIFI+BT
+![AzureWave-AW-CB160H-Broadcom-BCM94360HMB-802-11AC-1300Mbps-Kh-ng-D-y-WIFI-WLAN-Bluetooth-4 jpg_Q90](https://user-images.githubusercontent.com/55343489/169216906-2c364a86-ca4b-47d6-9df8-087484ee3ca9.jpg)
+
 
 # THÔNG SỐ CẤU HÌNH:
 *   CPU: Intel 4210u Haswell
